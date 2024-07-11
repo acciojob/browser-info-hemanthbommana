@@ -6,4 +6,3 @@ function displayMsg(){
 	ans.innerText= "You are using "+browserName+"version"+version;
 	
 }
-window.onload = displayBrowserInfo;
